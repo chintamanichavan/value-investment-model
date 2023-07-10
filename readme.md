@@ -114,12 +114,3 @@ Example response:
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-As for the GitHub repository name, you could consider something like `value-investing-ml-model` or a similar descriptive name that reflects the purpose of the project. Make sure to check the availability of the name on GitHub before creating the repository.
-
-Remember to adjust the README file and repository name as needed to match your specific project details.
